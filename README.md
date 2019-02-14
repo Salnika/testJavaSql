@@ -4,6 +4,7 @@
     You can use the cmd 'compile' 'Run' 'cleanclasses'
     If they dont work do 'source ./aliases'
     Compare your output with the expected one with 'diff expectedOutput.txt YourOutput.txt'
+    you can use https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/ArrayUtils.html
 
   - Do a method that return add 1 year to each User passed in parameter and return a new Array of User
   - Do a method that order all User from youngest to oldest and display their information without returning anything
