@@ -1,0 +1,2 @@
+class UserWithGroupsNames extends User {
+}

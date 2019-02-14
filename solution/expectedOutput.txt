@@ -1,0 +1,42 @@
+Hello I'm Marc !
+I'm 14 and my id is 2.
+Hello I'm Dimitri !
+I'm 19 and my id is 4.
+Hello I'm Alex !
+I'm 25 and my id is 3.
+Hello I'm Celestin !
+I'm 26 and my id is 5.
+Hello I'm Paul !
+I'm 35 and my id is 1.
+Hello I'm Marc !
+I'm 14 and my id is 2.
+And my groups are:
+Les biz
+Les pilotes
+Les gros mangeurs
+Les cuistots
+Hello I'm Dimitri !
+I'm 19 and my id is 4.
+And my groups are:
+Les autres
+Les trolls
+Les skieurs
+Hello I'm Alex !
+I'm 25 and my id is 3.
+And my groups are:
+Les trolls
+Les devs
+Hello I'm Celestin !
+I'm 26 and my id is 5.
+And my groups are:
+Les fouteux
+Les trolls
+Les voileux
+Les pilotes
+Les devs
+Hello I'm Paul !
+I'm 35 and my id is 1.
+And my groups are:
+Les fouteux
+Les trolls
+Les voileux

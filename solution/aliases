@@ -1,0 +1,3 @@
+alias compile='javac -cp commons-lang3-3.8.1.jar TechnicalTest.java DataSet.java User.java Group.java UsersWithGroupsNames.java'
+alias cleanclasses='rm *.class'
+alias run='java -cp commons-lang3-3.8.1.jar:. technicalTest'
